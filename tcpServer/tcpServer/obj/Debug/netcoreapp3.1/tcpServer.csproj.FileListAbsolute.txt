@@ -1,0 +1,16 @@
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.exe
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.deps.json
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.runtimeconfig.json
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.runtimeconfig.dev.json
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.dll
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\bin\Debug\netcoreapp3.1\tcpServer.pdb
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.Form1.resources
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.AssemblyInfoInputs.cache
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.AssemblyInfo.cs
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.dll
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.pdb
+C:\Users\ucenik\source\repos\tcpServer\tcpServer\obj\Debug\netcoreapp3.1\tcpServer.genruntimeconfig.cache
